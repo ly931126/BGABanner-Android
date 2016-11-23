@@ -170,6 +170,7 @@ public class MainActivity extends Activity implements BGABanner.OnItemClickListe
                 startActivity(new Intent(this, ListViewDemoActivity.class));
                 break;
             default:
+                //liye write nothing
                 break;
         }
     }
